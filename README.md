@@ -1,0 +1,1 @@
+# exercicios_aplicados_unsupervised_machine_learnig
